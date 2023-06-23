@@ -12,7 +12,7 @@ import { LayoutTagIndex } from './LayoutTagIndex'
 
 export {
   CONFIG_FUKA as THEME_CONFIG,
-  LayoutIndex,
+
   LayoutSearch,
   LayoutArchive,
   LayoutSlug,
