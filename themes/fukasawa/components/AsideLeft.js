@@ -20,10 +20,7 @@ function AsideLeft (props) {
     </section>
 
 
-    <section className='flex flex-col text-gray-600'>
-      <div className='w-12 my-4' />
-      <MenuList {...props}/>
-    </section>
+
 
     <section className='flex flex-col text-gray-600'>
       <div className='w-12 my-4' />
