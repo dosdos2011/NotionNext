@@ -15,7 +15,9 @@ function AsideLeft (props) {
   const router = useRouter()
   return <div className='sideLeft relative w-80 bg-white dark:bg-hexo-black-gray min-h-screen px-10 py-14 hidden lg:block z-20'>
     <Logo {...props}/>
-
+    <section className='siteInfo flex flex-col dark:text-gray-300 pt-8'>
+      { siteInfo?.description }
+    </section>
 
 
     <section className='flex flex-col text-gray-600'>
