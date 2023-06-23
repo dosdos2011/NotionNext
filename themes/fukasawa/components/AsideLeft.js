@@ -27,7 +27,7 @@ function AsideLeft (props) {
       <SearchInput {...props}/>
     </section>
 
-    <section className='flex flex-col dark:text-gray-600'>
+    <section className='flex flex-col dark:text-gray-300'>
       <div className='w-12 my-4' />
       <Announcement post={notice}/>
     </section>
