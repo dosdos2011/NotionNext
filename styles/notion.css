@@ -928,7 +928,7 @@ code[class*='language-'] {
   width: 100%;
   border-radius: 3px;
   border-width: 1px;
-  align-items: left;
+  align-items: center;
   box-sizing: border-box;
   margin: 4px 0;
   border: 1px solid var(--fg-color-0);
