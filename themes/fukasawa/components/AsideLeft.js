@@ -28,7 +28,7 @@ function AsideLeft (props) {
     </section>
 
     <section className='flex flex-col dark:text-gray-300'>
-      <div className='w-12 my-4' />
+      <div className='w-12 my-4'style='font-size:11px' />
       <Announcement post={notice}/>
     </section>
 
